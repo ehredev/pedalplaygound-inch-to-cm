@@ -9,5 +9,12 @@
       "js": ["content.js"]
     }
   ],
-  "icons": {}
+  "icons": {},
+  "permissions": [],
+  "action": {},
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "PedalPlayGround-inch-to-cm@icus.dev"
+    }
+  }
 }
